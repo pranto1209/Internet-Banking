@@ -1,6 +1,6 @@
-<h1 align="center">
-  Internet Banking ASP.NET
-</h1>
+# Internet Banking
+
+A web application for online transactions and bank account management with domain model Manager and User using C# ASP.NET MVC. 
 
 ## 🛠 Installation
 
